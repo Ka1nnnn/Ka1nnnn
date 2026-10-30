@@ -11,6 +11,8 @@
 
 <br>
 
+<img align="right" src="https://cdn.pixabay.com/photo/2023/06/13/17/16/ai-generated-8061458_1280.png" alt="Pink-haired anime singer" width="180">
+
 ### ✦ &nbsp; PROJECT SPOTLIGHT
 
 **[PassGuard](https://github.com/Ka1nnnn/passguard)** &nbsp; / &nbsp; Privacy-friendly password tools for your browser.
@@ -32,4 +34,4 @@ A couple of interesting **forks** from around GitHub:
 
 <br>
 
-<p align="center"><sub>✦ &nbsp; CODE · CREATE · EXPLORE &nbsp; ✦<br>Artwork by <a href="https://pixabay.com/illustrations/ai-generated-anime-e-girl-8445903/">Flame_Fox_Games on Pixabay</a></sub></p>
+<p align="center"><sub>✦ &nbsp; CODE · CREATE · EXPLORE &nbsp; ✦<br>Artwork by <a href="https://pixabay.com/illustrations/ai-generated-anime-e-girl-8445903/">Flame_Fox_Games</a> and <a href="https://pixabay.com/illustrations/ai-generated-girl-singing-female-8061458/">Smiln32</a> on Pixabay</sub></p>
