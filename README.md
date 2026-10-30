@@ -1,5 +1,6 @@
+<!-- HEADER ART: change src to replace the banner -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2023/12/12/21/16/ai-generated-8445903_1280.png" alt="Anime girl in a pink and purple neon gaming setup" width="100%">
+  <img src="./assets/rei-wings.webp" alt="Evangelion-inspired scene with luminous pink wings" width="100%">
 </p>
 
 <h1 align="center">Ka1n <span>✦</span></h1>
@@ -11,7 +12,8 @@
 
 <br>
 
-<img align="right" src="https://cdn.pixabay.com/photo/2023/06/13/17/16/ai-generated-8061458_1280.png" alt="Pink-haired anime singer" width="180">
+<!-- SIDE ART: change src to replace the small image -->
+<img align="right" src="./assets/rei-moon.webp" alt="Evangelion artwork with pink wings and a moon" width="180">
 
 ### ✦ &nbsp; PROJECT SPOTLIGHT
 
@@ -34,4 +36,4 @@ A couple of interesting **forks** from around GitHub:
 
 <br>
 
-<p align="center"><sub>✦ &nbsp; CODE · CREATE · EXPLORE &nbsp; ✦<br>Artwork by <a href="https://pixabay.com/illustrations/ai-generated-anime-e-girl-8445903/">Flame_Fox_Games</a> and <a href="https://pixabay.com/illustrations/ai-generated-girl-singing-female-8061458/">Smiln32</a> on Pixabay</sub></p>
+<p align="center"><sub>✦ &nbsp; CODE · CREATE · EXPLORE &nbsp; ✦</sub></p>
